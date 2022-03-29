@@ -4,7 +4,7 @@
 I am studying second semester, I like web development, frontent, specially.
 
 ## Languages
-![JS](https://img.shields.io/badge/Web_apps-007DDA?style=for-the-badge&logo=javascript&logoColor=007DDA&labelColor=black)</br>
+![JS](https://img.shields.io/badge/Web_apps-007DDA?style=for-the-badge&logo=javascript&logoColor=007DDA&labelColor=yellow)</br>
 ![C](https://img.shields.io/badge/Console_Applications-007DDA?style=for-the-badge&logo=c&logoColor=5E97D0&labelColor=white)</br>
 ![PAWN](https://img.shields.io/badge/Pawn-San_Andreas_MultiPlayer_Developer-007DDA?style=for-the-badge&logo=pawno&logoColor=purple&labelColor=white)</br>
 
