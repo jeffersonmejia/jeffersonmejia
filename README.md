@@ -13,4 +13,4 @@ I am studying second semester, I like web development, frontent, specially.
 ![HTML](https://img.shields.io/badge/Web_Designer-007DDA?style=for-the-badge&logo=html5&logoColor=ffb300&labelColor=white)</br>
 
 ## Find me at
-[![LINKEDIN](https://img.shields.io/badge/Jefferson_Mejía-white?style=for-the-badge&logo=linkedin&logoColor=006A99&labelColor=white)](https://www.linkedin.com/in/jefferson-mej%C3%ADa-ab9b731b8/)
+[![LINKEDIN](https://img.shields.io/badge/Jefferson_Mejía-white?style=for-the-badge&logo=linkedin&logoColor=006A99&labelColor=white)](https://www.linkedin.com/in/jeffersonmejia/)
