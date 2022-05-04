@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.imgur.com/LjdlSeq_d.webp?maxwidth=760&fidelity=grand" align="center"></img></div></br>
+<div align="center"><img src="https://i.imgur.com/LjdlSeq_d.webp?maxwidth=760&fidelity=grand" style="border-radius: 10px"></img></div></br>
 
 > Currently Eng. Systems student at Universidad Técnica de Manabí
 
