@@ -1,4 +1,4 @@
-<div align="center"><img src=https://i.postimg.cc/g2vSH7Vy/banner.png" width="600"/></div></br>
+<div align="center"><img src="https://i.postimg.cc/1zzYyBHV/banner.png" width="600"/></div></br>
 
 > Currently Eng. Systems student
 
