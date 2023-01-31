@@ -4,5 +4,5 @@
 <div align="right">Find me at</div>
 <div align="right"  style="display: flex;align-items:center;">
  <a style= href="https://linkdin.com"> Jefferson Mejía<a/>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="13"/>
 </div>
